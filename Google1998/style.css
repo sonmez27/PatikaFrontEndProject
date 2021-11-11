@@ -1,0 +1,21 @@
+.content {
+    float: left;
+}
+
+.box1 {
+    width: 37%;
+    height: 110px;
+    background-color: rgb(126, 229, 218);
+    
+}
+
+.box2 { 
+    width: 37%;
+    height: 110px;
+    background-color: rgb(112, 204, 194);
+    
+}
+.box3 { 
+    height: 110px;
+    background-color: rgb(98, 179, 170);
+}
